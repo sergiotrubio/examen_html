@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+}
+
+.navbarsergio{
+    padding: 0px 100px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+
+}
+
+.jumbotroncolor{
+    background-color: #dddddd;
+}
+
+.paddingcero{
+    padding: 0px;
+    border: 0px;
+}
+
+.cartas{
+    margin: 5px;
+    padding: 5px;
+    border: 0px;
+}
+
+.footer{
+    background-color: grey;
+}
+
+.cartasdelfooter{
+    margin: 20px;
+   
+}
